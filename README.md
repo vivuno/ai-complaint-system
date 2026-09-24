@@ -381,46 +381,6 @@ React-->>User: Display Result
 
 ---
 
-# 📸 Screenshots
-
-Create an **images** folder and place screenshots inside.
-
-```
-images/
-│
-├── login.png
-├── register.png
-├── dashboard.png
-├── admin.png
-└── complaint.png
-```
-
-Then uncomment and use:
-
-```markdown
-## Login
-
-![Login](images/login.png)
-
-## Register
-
-![Register](images/register.png)
-
-## Dashboard
-
-![Dashboard](images/dashboard.png)
-
-## Admin
-
-![Admin](images/admin.png)
-
-## Complaint
-
-![Complaint](images/complaint.png)
-```
-
----
-
 # 🚀 Deployment
 
 ## Frontend
